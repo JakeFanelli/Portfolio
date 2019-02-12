@@ -2622,7 +2622,8 @@ input, select, textarea {
 			}
 
 			.image.main img {
-				width: 100%;
+				width: 70%;
+				margin: 0 auto;
 			}
 
 		@media screen and (max-width: 736px) {
